@@ -1,0 +1,142 @@
+[
+  {
+    "name": "sid",
+    "fieldName": ":sid",
+    "dataType": "meta_data"
+  },
+  {
+    "name": "id",
+    "fieldName": ":id",
+    "dataType": "meta_data"
+  },
+  {
+    "name": "position",
+    "fieldName": ":position",
+    "dataType": "meta_data"
+  },
+  {
+    "name": "created_at",
+    "fieldName": ":created_at",
+    "dataType": "meta_data"
+  },
+  {
+    "name": "created_meta",
+    "fieldName": ":created_meta",
+    "dataType": "meta_data"
+  },
+  {
+    "name": "updated_at",
+    "fieldName": ":updated_at",
+    "dataType": "meta_data"
+  },
+  {
+    "name": "updated_meta",
+    "fieldName": ":updated_meta",
+    "dataType": "meta_data"
+  },
+  {
+    "name": "meta",
+    "fieldName": ":meta",
+    "dataType": "meta_data"
+  },
+  {
+    "name": "VIN (1-10)",
+    "fieldName": "vin_1_10",
+    "dataType": "text"
+  },
+  {
+    "name": "County",
+    "fieldName": "county",
+    "dataType": "text"
+  },
+  {
+    "name": "City",
+    "fieldName": "city",
+    "dataType": "text"
+  },
+  {
+    "name": "State",
+    "fieldName": "state",
+    "dataType": "text"
+  },
+  {
+    "name": "Postal Code",
+    "fieldName": "zip_code",
+    "dataType": "text"
+  },
+  {
+    "name": "Model Year",
+    "fieldName": "model_year",
+    "dataType": "text"
+  },
+  {
+    "name": "Make",
+    "fieldName": "make",
+    "dataType": "text"
+  },
+  {
+    "name": "Model",
+    "fieldName": "model",
+    "dataType": "text"
+  },
+  {
+    "name": "Electric Vehicle Type",
+    "fieldName": "ev_type",
+    "dataType": "text"
+  },
+  {
+    "name": "Clean Alternative Fuel Vehicle (CAFV) Eligibility",
+    "fieldName": "cafv_type",
+    "dataType": "text"
+  },
+  {
+    "name": "Electric Range",
+    "fieldName": "electric_range",
+    "dataType": "number"
+  },
+  {
+    "name": "Base MSRP",
+    "fieldName": "base_msrp",
+    "dataType": "number"
+  },
+  {
+    "name": "Legislative District",
+    "fieldName": "legislative_district",
+    "dataType": "number"
+  },
+  {
+    "name": "DOL Vehicle ID",
+    "fieldName": "dol_vehicle_id",
+    "dataType": "text"
+  },
+  {
+    "name": "Vehicle Location",
+    "fieldName": "geocoded_column",
+    "dataType": "point"
+  },
+  {
+    "name": "Electric Utility",
+    "fieldName": "electric_utility",
+    "dataType": "text"
+  },
+  {
+    "name": "2020 Census Tract",
+    "fieldName": "_2020_census_tract",
+    "dataType": "text"
+  },
+  {
+    "name": "Counties",
+    "fieldName": ":@computed_region_x4ys_rtnd",
+    "dataType": "number"
+  },
+  {
+    "name": "Congressional Districts",
+    "fieldName": ":@computed_region_fny7_vc3j",
+    "dataType": "number"
+  },
+  {
+    "name": "WAOFM - GIS - Legislative District Boundary",
+    "fieldName": ":@computed_region_8ddd_yn5v",
+    "dataType": "number"
+  }
+]

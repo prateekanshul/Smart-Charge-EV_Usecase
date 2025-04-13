@@ -1,0 +1,102 @@
+[
+  {
+    "check_type": "Empty Column",
+    "column": ":created_meta",
+    "issue_count": 22183
+  },
+  {
+    "check_type": "Empty Column",
+    "column": ":updated_meta",
+    "issue_count": 22183
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": ":sid",
+    "issue_count": 22183
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": ":id",
+    "issue_count": 22183
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": ":meta",
+    "issue_count": 22183
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": "county",
+    "issue_count": 5
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": "city",
+    "issue_count": 15
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": "make",
+    "issue_count": 122
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": "model",
+    "issue_count": 1845
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": "ev_type",
+    "issue_count": 22183
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": "geocoded_column",
+    "issue_count": 22176
+  },
+  {
+    "check_type": "Non-Alphanumeric",
+    "column": "electric_utility",
+    "issue_count": 16911
+  },
+  {
+    "check_type": "Special Characters",
+    "column": ":sid",
+    "issue_count": 9718
+  },
+  {
+    "check_type": "Special Characters",
+    "column": ":meta",
+    "issue_count": 22183
+  },
+  {
+    "check_type": "Special Characters",
+    "column": "county",
+    "issue_count": 4
+  },
+  {
+    "check_type": "Special Characters",
+    "column": "make",
+    "issue_count": 1
+  },
+  {
+    "check_type": "Special Characters",
+    "column": "model",
+    "issue_count": 390
+  },
+  {
+    "check_type": "Special Characters",
+    "column": "ev_type",
+    "issue_count": 22183
+  },
+  {
+    "check_type": "Special Characters",
+    "column": "geocoded_column",
+    "issue_count": 22176
+  },
+  {
+    "check_type": "Special Characters",
+    "column": "electric_utility",
+    "issue_count": 16911
+  }
+]

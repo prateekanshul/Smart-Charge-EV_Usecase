@@ -1,0 +1,156 @@
+{
+  "Top EV Makes": [
+    {
+      "Make": "TESLA",
+      "Count": 9917
+    },
+    {
+      "Make": "NISSAN",
+      "Count": 2533
+    },
+    {
+      "Make": "CHEVROLET",
+      "Count": 2063
+    },
+    {
+      "Make": "FORD",
+      "Count": 1177
+    },
+    {
+      "Make": "BMW",
+      "Count": 988
+    }
+  ],
+  "Top Model Years": [
+    {
+      "Model Year": "2022",
+      "Count": 4997
+    },
+    {
+      "Model Year": "2021",
+      "Count": 3320
+    },
+    {
+      "Model Year": "2018",
+      "Count": 2661
+    },
+    {
+      "Model Year": "2019",
+      "Count": 2091
+    },
+    {
+      "Model Year": "2020",
+      "Count": 2059
+    }
+  ],
+  "Average Electric Range": 84.34,
+  "Top Counties": [
+    {
+      "County": "King",
+      "Count": 11618
+    },
+    {
+      "County": "Snohomish",
+      "Count": 2418
+    },
+    {
+      "County": "Pierce",
+      "Count": 1620
+    },
+    {
+      "County": "Clark",
+      "Count": 1301
+    },
+    {
+      "County": "Thurston",
+      "Count": 1087
+    }
+  ],
+  "Top Model Per Year": [
+    {
+      "Model Year": "1999",
+      "Model": "RANGER",
+      "Count": 1
+    },
+    {
+      "Model Year": "2000",
+      "Model": "RANGER",
+      "Count": 2
+    },
+    {
+      "Model Year": "2008",
+      "Model": "ROADSTER",
+      "Count": 2
+    },
+    {
+      "Model Year": "2010",
+      "Model": "ROADSTER",
+      "Count": 5
+    },
+    {
+      "Model Year": "2011",
+      "Model": "LEAF",
+      "Count": 158
+    },
+    {
+      "Model Year": "2012",
+      "Model": "LEAF",
+      "Count": 117
+    },
+    {
+      "Model Year": "2013",
+      "Model": "LEAF",
+      "Count": 399
+    },
+    {
+      "Model Year": "2014",
+      "Model": "MODEL S",
+      "Count": 133
+    },
+    {
+      "Model Year": "2015",
+      "Model": "LEAF",
+      "Count": 365
+    },
+    {
+      "Model Year": "2016",
+      "Model": "LEAF",
+      "Count": 224
+    },
+    {
+      "Model Year": "2017",
+      "Model": "BOLT EV",
+      "Count": 307
+    },
+    {
+      "Model Year": "2018",
+      "Model": "MODEL 3",
+      "Count": 1122
+    },
+    {
+      "Model Year": "2019",
+      "Model": "MODEL 3",
+      "Count": 764
+    },
+    {
+      "Model Year": "2020",
+      "Model": "MODEL 3",
+      "Count": 648
+    },
+    {
+      "Model Year": "2021",
+      "Model": "MODEL Y",
+      "Count": 1208
+    },
+    {
+      "Model Year": "2022",
+      "Model": "MODEL Y",
+      "Count": 1368
+    },
+    {
+      "Model Year": "2023",
+      "Model": "MODEL Y",
+      "Count": 449
+    }
+  ]
+}

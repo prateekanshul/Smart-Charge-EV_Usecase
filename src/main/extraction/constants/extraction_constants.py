@@ -1,0 +1,11 @@
+BASE_BUCKET_PATH="s3a://pas-sf-demo-data"
+OUTPUT_DIR = f"{BASE_BUCKET_PATH}/output-data"
+INPUT_DIR = f"{BASE_BUCKET_PATH}/input-data"
+
+JSON_INPUT_PATH = f"{INPUT_DIR}/ElectricVehiclePopulationData.json"
+METADATA_OUTPUT_PATH = f"{OUTPUT_DIR}/metadata/columns_metadata.json"
+DATA_QUALITY_OUTPUT_DIR = f"{OUTPUT_DIR}/data-quality"
+DATA_INSIGHTS_OUTPUT_DIR = f"{OUTPUT_DIR}/data-insights"
+ICEBERG_OUTPUT_DIR = f"{OUTPUT_DIR}/iceberg-output"
+ICEBERG_CATALOG = "local"
+ICEBERG_TABLE_NAME = "ev_iceberg"
