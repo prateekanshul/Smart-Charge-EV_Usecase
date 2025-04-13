@@ -4,3 +4,5 @@ __pycache__/
 *.log
 .idea/
 *.zip
+run_config/output-data
+run_config/metadata
