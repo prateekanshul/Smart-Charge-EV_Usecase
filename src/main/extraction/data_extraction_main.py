@@ -90,8 +90,8 @@ def main():
         .config("spark.sql.catalog.local.type", "hadoop") \
         .config("spark.sql.catalog.local.warehouse", ICEBERG_OUTPUT_DIR) \
         .config("spark.hadoop.fs.s3a.impl", "org.apache.hadoop.fs.s3a.S3AFileSystem") \
-        .config("spark.hadoop.fs.s3a.access.key", "AKIA35NHPHWSBNIN6GPN") \
-        .config("spark.hadoop.fs.s3a.secret.key", "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") \
+        .config("spark.hadoop.fs.s3a.access.key", "") \
+        .config("spark.hadoop.fs.s3a.secret.key", "") \
         .config("spark.hadoop.fs.s3a.endpoint", "s3.us-east-1.amazonaws.com") \
         .getOrCreate()
 
